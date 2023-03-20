@@ -2,7 +2,6 @@
 //  main.cpp
 //  problem ultra fast mathematician
 //
-//  Created by Dipika Chichani on 09/06/21.
 //
 
 #include <iostream>
